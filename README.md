@@ -12,11 +12,13 @@ A windows computer, or compile source code in Linux.
 ## Example
 1. game puzzle
 ![image](https://github.com/XiaoyangHou/energy-balance-solver/blob/main/test-puzzle.jpg)
+
 2. fill out the blocks
 ![image](https://github.com/XiaoyangHou/energy-balance-solver/blob/main/puzzle%20test2.png)
+
 3. run the solver and input operation code 1 to get a solution
 ![image](https://github.com/XiaoyangHou/energy-balance-solver/blob/main/solution.png)
 
 ## Algorithm
-We use DFS (Depth First Search) to solve the problem.
+We use DFS (Depth First Search) to solve the problem.<br>
 By carefully constructing the order of search, we achieve a high-performance pruning algorithm.
